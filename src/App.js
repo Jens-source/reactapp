@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-         Learning how to use Github efficiently
+         I can use Giithub!
         </p>
         <a
           className="App-link"
